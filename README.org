@@ -1,0 +1,9 @@
+Hello!
+This program will take any string encrypted using a Caeser cipher and return the original
+
+To run this program follow these steps:
+1. Clone the repository onto your own device
+2. Open the repository and make sure you change directory into Caeser-Cipher-Decrypter
+3. In maim.cpp, enter the string you want to decrypt (more instructions provided in file)
+4. Type "make main" and then "./main" in your terminal
+5. Be sure to type "make clean" in your terminal when done! 
